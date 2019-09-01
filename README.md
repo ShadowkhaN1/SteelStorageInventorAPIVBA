@@ -9,7 +9,7 @@
 * [Contact](#contact)
 
 ## General info
-The application allows you to change the dimensions of shelves created in Autodesk Inventor.
+The application allows you to change the dimensions of storage created in Autodesk Inventor.
 
 ## Screenshots
 ![Example screenshot](./img/Screenshot1.PNG)
