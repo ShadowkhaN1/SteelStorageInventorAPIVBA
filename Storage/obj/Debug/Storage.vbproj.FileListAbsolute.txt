@@ -1,0 +1,12 @@
+C:\Users\Marzena\Desktop\Storage\Storage\Storage\bin\Debug\Storage.exe.config
+C:\Users\Marzena\Desktop\Storage\Storage\Storage\bin\Debug\Storage.exe
+C:\Users\Marzena\Desktop\Storage\Storage\Storage\bin\Debug\Storage.pdb
+C:\Users\Marzena\Desktop\Storage\Storage\Storage\bin\Debug\Storage.xml
+C:\Users\Marzena\Desktop\Storage\Storage\Storage\obj\Debug\Storage.vbprojAssemblyReference.cache
+C:\Users\Marzena\Desktop\Storage\Storage\Storage\obj\Debug\Storage.Resources.resources
+C:\Users\Marzena\Desktop\Storage\Storage\Storage\obj\Debug\Storage.vbproj.GenerateResource.cache
+C:\Users\Marzena\Desktop\Storage\Storage\Storage\obj\Debug\Storage.vbproj.CoreCompileInputs.cache
+C:\Users\Marzena\Desktop\Storage\Storage\Storage\obj\Debug\Storage.exe
+C:\Users\Marzena\Desktop\Storage\Storage\Storage\obj\Debug\Storage.xml
+C:\Users\Marzena\Desktop\Storage\Storage\Storage\obj\Debug\Storage.pdb
+C:\Users\Marzena\Desktop\Storage\Storage\Storage\obj\Debug\Storage.Storage.resources
