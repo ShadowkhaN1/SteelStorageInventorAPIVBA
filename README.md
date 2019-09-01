@@ -1,6 +1,6 @@
 # SteelStorageInventorAPIVBA
 
-> Video available here https://youtu.be/gQFmVYoAR-Q
+> Video available here https://youtu.be/-TSXfow7Xxg
 
 ## Table of contents
 * [General info](#general-info)
