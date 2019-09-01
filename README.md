@@ -12,7 +12,7 @@
 The application allows you to change the dimensions of shelves created in Autodesk Inventor.
 
 ## Screenshots
-![Example screenshot](./img/Screenshot1.png)
+![Example screenshot](./img/Screenshot1.PNG)
 
 ## Technologies
 - VBA.net - Windows Forms 
