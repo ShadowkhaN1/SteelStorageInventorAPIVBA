@@ -17,6 +17,7 @@ The application allows you to change the dimensions of storage created in Autode
 ## Technologies
 - VBA.net - Windows Forms 
 - Visual studio Code 2019
+- Autodesk Inventor Professional
 
 ## Contact
 Created by lukasz.neumann90@gmail.com - feel free to contact me!
